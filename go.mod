@@ -1,4 +1,4 @@
-module fzf-log
+module github.com/kjelly/fzf-log
 
 go 1.20
 
